@@ -26,3 +26,6 @@ To destroy the environment:
 ```
 PS C:\Users\admin\aws-security> terraform destroy -var environment={your_aws_environment_name}
 ```
+
+## subscribe to Amazon Marketplace
+* the AWS account needs to accept the Ubuntu Canonical [Amazon Marketplace terms](https://aws.amazon.com/marketplace/pp?sku=a8jyynf4hjutohctm41o2z18m)
